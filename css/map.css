@@ -1,0 +1,15 @@
+#map{
+    height: 20px;
+    width: auto;  
+}
+
+html, body, #map {
+    height: 95%;
+    font: 10pt "Helvetica Neue", Arial, Helvetica, sans-serif;
+    
+}
+
+.lorem {
+    font-style: italic;
+    color: #AAA;
+}
