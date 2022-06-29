@@ -1,0 +1,73 @@
+ <div class="sidebar">
+        <div class="logoContent">
+            <div class="logo">
+                <i class='bx bxs-map-pin' ></i>
+                <div class="logoName"> Departamento de Geoprocessamento</div>
+            </div>
+            <!-- logo -->
+            <i class='bx bx-menu' id="btn"></i>
+        </div>
+        <!-- logoContent -->
+        <ul class="nav_list">
+
+            <li>
+                <a href="./camadas/bairros.html">
+                    <i class='bx bx-layer' ></i>
+                    <span class="links_name" >Bairros Distrito Sede</span>
+                    <span class="toolipe">Bairros Distrito Sede</span>
+                </a>
+            </li>
+
+            
+
+            <li>
+                <a href="./camadas/limites_municipio.html">
+                    <i class='bx bx-layer' ></i>
+                    <span class="links_name">Limites do Municipio</span>
+                    <span class="toolipe">Limites do Municipio</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="#">
+                    <i class='bx bx-cog' ></i>
+                    <span class="links_name">Configurações</span>
+                    <span class="toolipe">Configurações</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="#">
+                    <i class='bx bx-folder-open' ></i>
+                    <span class="links_name">Arquivos</span>
+                    <span class="toolipe">Arquivos</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="#">
+                    <i class='bx bx-chat' ></i>
+                    <span class="links_name">Mensagens</span>
+                    <span class="toolipe">Mensagens</span>
+                </a>
+            </li>
+
+
+            <li>
+                <a href="#">
+                    <i class='bx bx-bar-chart' ></i>
+                    <span class="links_name">Relatórios</span>
+                    <span class="toolipe">Relatórios</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="#">
+                    <i class='bx bx-cart-alt' ></i>
+                    <span class="links_name">Vendas</span>
+                    <span class="toolipe">Vendas</span>
+                </a>
+            </li>
+        </ul>
+        
+    </div>
